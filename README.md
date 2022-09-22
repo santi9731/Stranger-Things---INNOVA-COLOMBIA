@@ -36,7 +36,7 @@
 	Entre esta información está el reparto, datos curiosos, lugares de grabación, escenografías y de más información relevante de la seria.
 </p>
 
-## 🔋 Estado del proyecto
+## 🔋 [Estado del proyecto](#Estado-del-proyecto)
 
 🏗️El proyecto esta en desarrollo🏗️
 
